@@ -13,30 +13,30 @@ This project presents an end-to-end data analytics solution developed in Power B
 The dashboard is designed to support data-driven decision-making by providing clear visibility into key performance indicators, trends, and business drivers.
 
 **Key Highlights**
-Analysis of over 700K in revenue with corresponding profit and margin evaluation
-Identification of consistent year-over-year sales growth trends
-Detection of top-performing product category (Technology)
-Regional performance analysis highlighting Central and East as leading markets
-Sub-category insights identifying high-performing products such as Chairs and Phones
-Interactive filtering for segment, shipping mode, and regional analysis
-Technical Implementation
+- Analysis of over 700K in revenue with corresponding profit and margin evaluation
+- Identification of consistent year-over-year sales growth trends
+- Detection of top-performing product category (Technology)
+- Regional performance analysis highlighting Central and East as leading markets
+- Sub-category insights identifying high-performing products such as Chairs and Phones
+- Interactive filtering for segment, shipping mode, and regional analysis
+- Technical Implementation
 
 
 **Data Modeling**
-Structured dataset prepared for efficient querying and reporting
-Defined relationships between categories, regions, and segments
-Analytical Layer (DAX)
-Implementation of calculated measures such as Profit Margin
-Aggregation logic for KPI reporting
-Context-aware calculations enabling dynamic filtering
+- Structured dataset prepared for efficient querying and reporting
+- Defined relationships between categories, regions, and segments
+- Analytical Layer (DAX)
+- Implementation of calculated measures such as Profit Margin
+- Aggregation logic for KPI reporting
+- Context-aware calculations enabling dynamic filtering
 
 
 **Visualization Design**
-KPI cards for high-level performance tracking
-Time-series visualizations for trend analysis
-Category and sub-category comparison charts
-Geographic mapping for regional distribution
-Business Impact
+- KPI cards for high-level performance tracking
+- Time-series visualizations for trend analysis
+- Category and sub-category comparison charts
+- Geographic mapping for regional distribution
+- Business Impact
 
 **This dashboard enables:**
 - Improved visibility into revenue and profitability performance
@@ -50,9 +50,9 @@ Business Impact
 
 
 **Future Enhancements**
-Implementation of advanced analytical metrics such as year-over-year growth and forecasting
-Addition of drill-through functionality for detailed analysis
-Expansion of profitability analysis at the sub-category level
-Enhancement of dashboard design for improved usability and consistency
-Integration with larger or real-time datasets
-Inclusion of structured business recommendations within the dashboard
+- Implementation of advanced analytical metrics such as year-over-year growth and forecasting
+- Addition of drill-through functionality for detailed analysis
+- Expansion of profitability analysis at the sub-category level
+- Enhancement of dashboard design for improved usability and consistency
+- Integration with larger or real-time datasets
+- Inclusion of structured business recommendations within the dashboard
