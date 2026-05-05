@@ -5,7 +5,7 @@ Power BI
 Sales Intelligence Dashboard
 Overview
 
-<img width="791" height="444" alt="image" src="https://github.com/user-attachments/assets/134439e6-815b-4702-9a04-cddb4415dc55" />
+<img width="798" height="447" alt="image" src="https://github.com/user-attachments/assets/785da147-2cb4-4618-bdb5-029cded73473" />
 
 This project presents an end-to-end data analytics solution developed in Power BI to analyze sales performance across multiple dimensions, including category, region, and customer segment.
 
