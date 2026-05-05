@@ -12,9 +12,7 @@ This project presents an end-to-end data analytics solution developed in Power B
 
 The dashboard is designed to support data-driven decision-making by providing clear visibility into key performance indicators, trends, and business drivers.
 
-**
-Key Highlights**
-
+**Key Highlights**
 Analysis of over 700K in revenue with corresponding profit and margin evaluation
 Identification of consistent year-over-year sales growth trends
 Detection of top-performing product category (Technology)
@@ -24,9 +22,7 @@ Interactive filtering for segment, shipping mode, and regional analysis
 Technical Implementation
 
 
-**
-Data Modeling**
-
+**Data Modeling**
 Structured dataset prepared for efficient querying and reporting
 Defined relationships between categories, regions, and segments
 Analytical Layer (DAX)
@@ -42,8 +38,7 @@ Category and sub-category comparison charts
 Geographic mapping for regional distribution
 Business Impact
 
-**This dashboard enables:
-**
+**This dashboard enables:**
 - Improved visibility into revenue and profitability performance
 - Identification of high-performing products and regions
 - Better understanding of sales distribution across categories
@@ -54,8 +49,8 @@ Business Impact
 - DAX (data analysis and calculations)
 
 
-**Future Enhancements
-**Implementation of advanced analytical metrics such as year-over-year growth and forecasting
+**Future Enhancements**
+Implementation of advanced analytical metrics such as year-over-year growth and forecasting
 Addition of drill-through functionality for detailed analysis
 Expansion of profitability analysis at the sub-category level
 Enhancement of dashboard design for improved usability and consistency
